@@ -41,7 +41,7 @@ This game is best experienced on itch.io
 
 Enhanced 2048 puzzle game with custom features  
 
-🔗 Play: [https://jashbhai635.github.io/2048-GridX]
+🔗 Play: [https://jashbhai635.github.io/2048-GridX/]
 
 This game is best experienced on itch.io
 
