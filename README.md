@@ -25,9 +25,9 @@ If you're here, you're not just viewing a profile. You're witnessing momentum in
 
 ![Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌌 Galaxy Jumper
+### 🌌 Galaxy Jumper
 
 Endless space runner game  
 
@@ -37,7 +37,7 @@ This game is best experienced on itch.io
 
 [![Play Galaxy Jumper](https://img.shields.io/badge/Play%20Galaxy%20Jumper-itch.io-blue)](https://jashbhai634.itch.io/galaxy-jumper)
 
-## 🔢 2048 GridX
+### 🔢 2048 GridX
 
 Enhanced 2048 puzzle game with custom features  
 
@@ -47,7 +47,7 @@ This game is best experienced on itch.io
 
 [![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-blue)](https://jashbhai634.itch.io/2048-gridx)
 
-## ❌⭕ Neon Grid
+### ❌⭕ Neon Grid
 
 Advance tic-tac-toe game with ultimate and featured mode.
 
@@ -57,7 +57,7 @@ This game is best experienced on itch.io
 
 [![Play Neon-Grid](https://img.shields.io/badge/Play%20Neon--Grid-itch.io-blue)](https://jashbhai634.itch.io/neon-grid)
 
-## 🖌️ Harmony Hues
+### 🖌️ Harmony Hues
 
 Advanced colouring and painting app with Mandala engine
 
@@ -65,9 +65,11 @@ Advanced colouring and painting app with Mandala engine
 
 This game is best experienced on itch.io
 
+[![Play Harmony Hues](https://img.shields.io/badge/Play%20Harmony%20Hues-itch.io-blue)](https://jashbhai634.itch.io/harmony-hues)
+
 “Code is not just written here — it’s engineered.”
 
-# 🎮 What We Build
+## 🎮 What We Build
 
 - Browser & mobile-friendly games
 
@@ -75,7 +77,7 @@ This game is best experienced on itch.io
 
 - Interactive web experiences
 
-# 🛠 Tech Stack :
+## 🛠 Tech Stack :
 
 ![HTML5](https://img.shields.io/badge/Engine-HTML5-orange)
 
@@ -83,7 +85,7 @@ This game is best experienced on itch.io
 
 ![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
 
-# 📍 Studio Info
+## 📍 Studio Info
 
 - Studio: CodeMatrix Studio
 
