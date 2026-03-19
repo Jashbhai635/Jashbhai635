@@ -23,13 +23,13 @@ If you're here, you're not just viewing a profile. You're witnessing momentum in
 
 “Dream it. Design it. Develop it.
 
-![Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🚀 Featured Projects
 
 ### 🌌 Galaxy Jumper
 
-Endless space runner game  
+Endless space runner game. 
 
 🔗 Play: [https://jashbhai635.github.io/Galaxy-Jumper/]
 
@@ -39,7 +39,7 @@ This game is best experienced on itch.io
 
 ### 🔢 2048 GridX
 
-Enhanced 2048 puzzle game with custom features  
+Enhanced 2048 puzzle game with custom features. 
 
 🔗 Play: [https://jashbhai635.github.io/2048-GridX/]
 
@@ -59,7 +59,7 @@ This game is best experienced on itch.io
 
 ### 🖌️ Harmony Hues
 
-Advanced colouring and painting app with Mandala engine
+Advanced colouring and painting app with Mandala engine.
 
 🔗 Play: [https://jashbhai635.github.io/Harmony-Hues/]
 
