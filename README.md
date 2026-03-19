@@ -31,7 +31,7 @@ If you're here, you're not just viewing a profile. You're witnessing momentum in
 
 Endless space runner game  
 
-🔗 Play: [https://jashbhai634.itch.io/galaxy-jumper]
+🔗 Play: [https://jashbhai635.github.io/Galaxy-Jumper/]
 
 This game is best experienced on itch.io
 
@@ -41,7 +41,7 @@ This game is best experienced on itch.io
 
 Enhanced 2048 puzzle game with custom features  
 
-🔗 Play: [https://jashbhai634.itch.io/2048-gridx]
+🔗 Play: [https://jashbhai635.github.io/2048-GridX]
 
 This game is best experienced on itch.io
 
@@ -51,7 +51,7 @@ This game is best experienced on itch.io
 
 Advance tic-tac-toe game with ultimate and featured mode.
 
-🔗 Play: [https://jashbhai634.itch.io/neon-grid]
+🔗 Play: [https://jashbhai635.github.io/Neon-Grid/]
 
 This game is best experienced on itch.io
 
@@ -61,7 +61,7 @@ This game is best experienced on itch.io
 
 Advanced colouring and painting app with Mandala engine
 
-🔗 Play: [https://jashbhai634.itch.io/harmony-hues]
+🔗 Play: [https://jashbhai635.github.io/Harmony-Hues/]
 
 This game is best experienced on itch.io
 
@@ -77,7 +77,7 @@ This game is best experienced on itch.io
 
 - Interactive web experiences
 
-## 🛠 Tech Stack :
+## 🛠 Tech Stack 
 
 ![HTML5](https://img.shields.io/badge/Engine-HTML5-orange)
 
