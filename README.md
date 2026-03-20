@@ -7,7 +7,7 @@
 ---
 Indie game and tech studio focused on building creative, high-performance browser and mobile games. We craft engaging gameplay experiences using modern web technologies, with a strong focus on clean code and smooth performance.
 
-This repository represents more than just projects — it reflects ambition, experimentation, and continuous evolution. Every line of code here is written with intention, every design decision carries thought, and every release pushes the standard a little higher.
+This repository represents more than just projects — it reflects ambition, experimentation, and continuous evolution. Every line of code here is written with intention, every design and decision carries thought, and every release pushes the standard a little higher.
 
 I believe in building experiences, not just applications. Whether it’s a fast-paced browser game, a calm and immersive creative app, or a clean and responsive web interface, the goal remains the same: deliver something meaningful, smooth, and memorable. 
 
@@ -21,7 +21,7 @@ Exploring this repository means stepping into a mindset where creativity and dis
 
 If you're here, you're not just viewing a profile. You're witnessing momentum in motion.
 
-“Dream it. Design it. Develop it.
+"Dream it. Design it. Develop it."
 
 
 
